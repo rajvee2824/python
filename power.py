@@ -6,8 +6,8 @@ print(x)
 r = math.ceil(base)
 y = math.floor(base)
 
-print(r)  # returns 2
-print(y)  # returns 1
+print(r)
+print(y)
 z = math.pi
 
 print(z)

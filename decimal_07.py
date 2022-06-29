@@ -1,4 +1,4 @@
-# Python program to convert decimal into other number systems
+
 dec = int(input("enter the number:- "))
 
 print("The decimal value of", dec, "is:")

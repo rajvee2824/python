@@ -9,7 +9,7 @@ def recur_fibo(n):
 
 nterms = int(input("enter the number:- "))
 
-# check if the number of terms is valid
+
 if nterms <= 0:
     print("Plese enter a positive integer")
 else:
